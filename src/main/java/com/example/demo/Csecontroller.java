@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class Csecontroller {
 	@GetMapping("/home")
 	public String rocks() {
-		return "WELCOME TO CSE!!!!!!!!!!!!!!!!!!";
+		return "WELCOME TO CSE!!!!!!!!!!!!!!Bangladesh...!!!!";
 		
 	}
 	@GetMapping("/cse")
 	public String rocks1() {
-		return "HELLO, WORLD..............";
+		return "HELLO, WORLD..........USA.????....";
 	}
 }
